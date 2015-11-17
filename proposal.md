@@ -12,4 +12,4 @@ Features:
 -possibility to length of a word
 -Highscore to compete with your friends
 
-![alt tag](https://raw.github.com/alexwit/HANGMAN/Hangman proposal.jpg)
+![alt tag](https://github.com/alexwit/HANGMAN/blob/master/Hangman%20proposal.JPG)
