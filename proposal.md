@@ -8,8 +8,11 @@ with the original gameplay you remember from when you were waiting in a restaura
 Features:
 
 -ingame letter showing
+
 -easy activation of Xtreme / Evil mode
+
 -possibility to length of a word
+
 -Highscore to compete with your friends
 
 ![alt tag](https://github.com/alexwit/HANGMAN/blob/master/Hangman%20proposal.JPG)
