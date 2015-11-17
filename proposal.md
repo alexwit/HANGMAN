@@ -1,4 +1,4 @@
-# HANGMAN Xtreme
+# HANGMAN Xtreme - Alex Wittebrood 10288880
 
 Hangman Xtreme is a game app where the user need's to guess a certain word of a certain length within a certain amount of trys.
 The difference between the Hangman Xtreme app and the original Hangman game is that you can make the game more difficult by 
@@ -11,4 +11,5 @@ Features:
 -easy activation of Xtreme / Evil mode
 -possibility to length of a word
 -Highscore to compete with your friends
+
 
