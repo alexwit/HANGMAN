@@ -12,4 +12,4 @@ Features:
 -possibility to length of a word
 -Highscore to compete with your friends
 
-![Alt text](/Hangman proposal.jpg)
+![Alt text](/relative/path/to/Hangman proposal.jpg?raw=true "Prosal")
